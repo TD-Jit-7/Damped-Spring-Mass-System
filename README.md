@@ -81,6 +81,15 @@ Here are sample values to test the system:
 - **Initial Velocity (v0)**: 0 m/s
 - **Excitation Function (F(t))**: \( 50 \sin(2\pi t) \)
 
+## User Interface
+
+The GUI for this project allows users to input parameters and solve the system. The interface is intuitive, with options for mass, damping, spring constants, initial conditions, and external force functions. Upon clicking the `SOLVE` button, the results are displayed as graphs for position and velocity over time.
+
+Here is a snapshot of the GUI:
+
+![Spring-Mass System GUI](spring-mass.png)  <!-- Adjust the path according to where you store the image -->
+
+
 ## Installation
 
 1. Clone the repository:
